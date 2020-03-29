@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Masturbation Tracker + Facts</string>
+    <string name="daily_count">Total Count</string>
+    <string name="_0">0</string>
+    <string-array name="nomes">
+        <item>It improves heart health.</item>
+        <item>It helps you sleep better at night</item>
+        <item>It reduces the risk of prostate cancer</item>
+        <item>It strengthens your pelvic floor</item>
+        <item>It reduces your risk of vaginal infection</item>
+        <item>It increases immune function</item>
+        <item>It gives you the chance to enjoy truly safe sex</item>
+        <item>It can improve your confidence</item>
+        <item>It can increase the enjoyment during partner sex</item>
+        <item>Reaching peak pleasure may also help cure a cold</item>
+        <item>Remember these first date tips .Then try masturbating about an hour beforehand</item>
+        <item>Reduces Your Risk of Erectile Dysfunction</item>
+        <item>(Improves Heart Health) For those of you who hate cardio, here’s another tactic to try</item>
+        <item>(Makes You Look Younger)People who look significantly younger than their age may all share a secret</item>
+        <item>Increases Your Lifespan</item>
+        <item>YOU TURN INTO A WAY MORE PRODUCTIVE VERSION OF YOURSELF</item>
+        <item>You\'ll get a healthy dose of dopamine, endorphins and oxycontin.</item>
+        <item>You won\'t get as many junk-food cravings.</item>
+        <item>For men, frequent masturbation improves sperm quality.</item>
+        <item>Pleasure is physiologically relaxing, which has a positive effect on the microbiome.</item>
+        <item>Women who masturbate regularly are more likely to feel positively about their body</item>
+        <item>Daydreaming kicks life up a notch.</item>
+        <item>You’ll feel more empowered and connected to your body.</item>
+        <item>You’ll learn more about what you like in bed.</item>
+        <item>Masturbation reduces stress.</item>
+        <item>It’s also a natural pain reliever.</item>
+        <item>It can even put you to sleep.</item>
+        <item>Masturbation improves blood flow.</item>
+        <item>Your sex drive will get a boost, too.</item>
+        <item>Sex with your partner will be better than ever.</item>
+        <item>Masturbation just makes you feel happier.</item>
+    </string-array>
+</resources>
+
